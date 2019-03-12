@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: jedis-2.7.0.jar commons-beanutils-1.9.3.jar ezmorph-1.0.6.
+ jar json-lib-2.4-jdk15.jar commons-lang-2.6.jar javax.servlet.jsp.jar
+  javax.servlet.jar javax.persistence.jar javax.annotation.jar javax.t
+ ransaction.jar javax.jms.jar javax.ejb.jar javax.resource.jar javax.s
+ ervlet.jsp.jstl.jar commons-collections-3.2.2.jar commons-dbutils-1.4
+ .jar commons-logging-1.2.jar mysql-connector-java-8.0.11.jar standard
+ .jar
+Main-Class: com.dreamtech.dt_web.web.LoginServlet
+

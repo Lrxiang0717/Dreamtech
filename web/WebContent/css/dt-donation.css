@@ -1,0 +1,264 @@
+/*clear style*/
+html {
+    color: #000;
+    background: #FFF;
+    font-size: 62.5%;
+    height: 100%;
+    width: 100%;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset, img {
+    border: 0
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style: normal;
+    font-weight: normal
+}
+
+ol, ul {
+    list-style: none
+}
+
+caption, th {
+    text-align: left
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal
+}
+
+q:before, q:after {
+    content: ''
+}
+
+abbr, acronym {
+    border: 0;
+    font-variant: normal
+}
+
+sup {
+    vertical-align: text-top
+}
+
+sub {
+    vertical-align: text-bottom
+}
+
+input, textarea, select {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    *font-size: 100%
+}
+
+legend {
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+/*fonts*/
+@font-face {
+    font-family: huge;
+    src: url("../fonts/icomoon.svg") format('svg'),
+    url("../fonts/icomoon.eot") format('embedded-opentype'),
+    url("../fonts/icomoon.ttf") format('truetype'),
+    url("../fonts/icomoon.woff") format('woff');
+}
+
+[class^='icon'] {
+    font-family: huge;
+    font-style: normal;
+}
+
+.icon-pzs::before {
+    content: '\e948';
+    font-size: 1.2em;
+}
+
+.icon-phone::before {
+    content: '\e942';
+    font-size: 1.2em;
+}
+
+.icon-mailbox::before {
+    content: '\e945';
+    font-size: 1.2em;
+}
+
+.icon-pzs, .icon-phone, .icon-mailbox {
+    margin-right: 1em;
+    color: skyblue;
+}
+
+/*nav*/
+.navbar {
+    background-color: white;
+    border: none;
+}
+
+.nav a {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.nav a:hover {
+    color: skyblue !important;
+}
+
+.navbar-brand {
+    margin-top: .1rem;
+}
+
+.navbar-toggle {
+    margin-top: 1.7rem;
+}
+
+/*header*/
+@media screen and (min-width: 798px) {
+    .header1 h1 {
+        margin-bottom: 5rem;
+    }
+
+    .header1 p:first-of-type {
+        margin-bottom: 3rem;
+    }
+    .content1 .code p {
+        font-size: 1.8rem;
+    }
+}
+
+@media screen and (max-width: 798px) {
+    .header1 h1 {
+        margin-bottom: 1rem;
+        font-size: 2rem;
+    }
+
+    .header1 p:first-of-type {
+        margin-bottom: .5rem;
+        font-size: 1.3rem;
+    }
+    .content1 .code h3{
+        font-size: 1.8rem;
+    }
+    .content1 .code p {
+        font-size: 1.4rem;
+    }
+}
+
+/*content1*/
+.content1 .mgt {
+    margin-top: 3rem;
+}
+
+.content1 .code h3 {
+    margin-bottom: 2rem;
+}
+
+.content1 .media a:hover span {
+    display: block;
+}
+
+.content1 .bg1 span {
+    background: url("https://dtweb.oss-cn-beijing.aliyuncs.com/dt_web/images/未标题-1_01.png") no-repeat;
+}
+
+.content1 .bg2 span {
+    background: url("https://dtweb.oss-cn-beijing.aliyuncs.com/dt_web/images/未标题-1_011.png") no-repeat;
+}
+
+.content1 .media span {
+    width: 150px;
+    height: 150px;
+    -webkit-background-size: cover;
+    background-size: cover;
+    position: absolute;
+    left: 0;
+    top: -40%;
+    display: none;
+    z-index: 999;
+}
+
+/*content2*/
+.mgb {
+    margin-bottom: 2rem;
+}
+.content2{
+    margin-bottom: 3rem;
+}
+.content2 dl {
+    margin-left: 2rem;
+}
+
+.content2 dl dt {
+    margin-bottom: 1rem;
+    margin-top: 4rem;
+    font-size: 1.8rem;
+}
+
+.content2 dl dd:first-of-type {
+    margin-top: 2rem;
+    font-size: 1.6rem;
+}
+
+.content2 dl dd {
+    margin-bottom: .6rem;
+    margin-left: 3.6rem;
+}
+
+/*footer*/
+.panel {
+    border: none;
+    /*display: none;*/
+}
+
+.panel .panel-heading {
+    background-color: #fff;
+
+    border: none;
+    margin-top: 5rem;
+}
+
+.panel .panel-heading .page-header {
+    border: none;
+}
+
+.panel .panel-heading .page-header:hover h3 {
+    text-decoration: none;
+    border: none;
+}
+@media (min-width: 768px) {
+    .footer_ul{
+        font-size: 1.4rem;
+    }
+    .footer-logo {
+        margin-top: 6%;
+    }
+}
+@media (max-width: 768px) {
+    .footer_ul{
+        font-size: 1rem;
+    }
+    .footer-logo{
+        text-align: center;
+    }
+}

@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="dt_web:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/web/WebContent" mnemonic="5" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="469398d3-4956-4812-9423-5bb109549b9e" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/dt_web$Tomcat.ic" NAME="Tomcat Coverage Results" MODIFIED="1535725726382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="dt_web" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="jdbc.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="idea64.exe.vmoptions" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Jsp File" />
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>/dt_web/Introduce</find>
+      <find>/dt_web/Member</find>
+      <find>/dt_web/Donation</find>
+      <find>/dt_web/NewsComments</find>
+      <find>/dt_web/Login</find>
+      <find>/dt_web/GetComment</find>
+      <find>/dt_web/Application</find>
+      <find>/dt_web/Logout</find>
+      <find>/dt_web/WebContent</find>
+      <find>/dt_web/Home</find>
+      <find>/Home</find>
+      <find>/</find>
+      <find>3</find>
+      <find>newsContent</find>
+      <find>size</find>
+      <find>resources</find>
+      <find>./resources</find>
+      <find>cons</find>
+      <find>con</find>
+      <find>donation</find>
+      <find>newsList</find>
+      <find>console</find>
+      <find>put.</find>
+      <find>save</find>
+      <find>intr</find>
+      <find>textarea</find>
+      <find>box_content</find>
+      <find>link-bar</find>
+      <find>footer_ul</find>
+      <find>parse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>NewsComments</replace>
+      <replace>Login</replace>
+      <replace>GetComment</replace>
+      <replace>Page</replace>
+      <replace>dt-news.jpg</replace>
+      <replace>dt-member.jpg</replace>
+      <replace>/dt_web</replace>
+      <replace>dt-intro.jpg</replace>
+      <replace>dt_paper.jpg</replace>
+      <replace>&lt;/c:if&gt;</replace>
+      <replace>/dt_web/WebContent/</replace>
+      <replace />
+      <replace>https://dtweb.oss-cn-beijing.aliyuncs.com/dt_web/images/</replace>
+      <replace>/Home</replace>
+      <replace>/News</replace>
+      <replace>/Achievements</replace>
+      <replace>/Introduce</replace>
+      <replace>/Member</replace>
+      <replace>/Donation</replace>
+      <replace>/NewsComments</replace>
+      <replace>/Login</replace>
+      <replace>/GetComment</replace>
+      <replace>/Application</replace>
+      <replace>/Logout</replace>
+      <replace>/WebContent</replace>
+      <replace>/</replace>
+      <replace>./resources</replace>
+      <replace>/WebAdmin/resources</replace>
+      <replace>Finance</replace>
+      <replace>nl</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent\source</dir>
+      <dir>D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent\images\dt-intro</dir>
+      <dir>D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent</dir>
+      <dir>D:\java\apache-tomcat-9.0.10\webapps\dt_web\out\artifacts\dt_web_war_exploded</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/DelNewsServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminApplicationServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminFinanceServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminAchievementsServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/web/MemberServlet.java" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/dt-login.jsp" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/login.jsp" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/dao/FinanceDao.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AddDonationServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AddFinanceServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/dao/ApplicationDao.java" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/member.jsp" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/donation.jsp" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/dao/DonationDao.java" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/money.jsp" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/DelFinanceServlet.java" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/get.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/dt-error.html" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/untils/GzipFilter.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminIndexServlet.java" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/upload.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/Rar$DRa6272.32567/oss-h5-upload-js-direct/index.html" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/index.jsp" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/NewsImageServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AddNewsServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AddAchievementsServlet.java" />
+        <option value="$PROJECT_DIR$/web/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/achievement.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/jsp/dt-get.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/css/dt-get.css" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/web/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminLoginServlet.java" />
+        <option value="$PROJECT_DIR$/web/WebContent/jsp/dt.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/js/dt.js" />
+        <option value="$PROJECT_DIR$/web/WebContent/css/dt.css" />
+        <option value="$PROJECT_DIR$/web/WebContent/css/dt-achievements.css" />
+        <option value="$PROJECT_DIR$/web/WebContent/jsp/dt-achievements.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/jsp/dt-donation.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/css/dt-donation.css" />
+        <option value="$PROJECT_DIR$/web/WebContent/css/dt-introduce.css" />
+        <option value="$PROJECT_DIR$/web/WebContent/css/dt-member.css" />
+        <option value="$PROJECT_DIR$/web/WebContent/css/dt-news.css" />
+        <option value="$PROJECT_DIR$/web/WebContent/jsp/dt-introduce.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/jsp/dt-member.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/jsp/dt-news.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/js/dt-news.js" />
+        <option value="$PROJECT_DIR$/web/WebAdmin/news.jsp" />
+        <option value="$PROJECT_DIR$/web/WebContent/js/dt-achievements.js" />
+        <option value="$PROJECT_DIR$/src/jdbc.properties" />
+        <option value="$APPLICATION_HOME_DIR$/bin/idea64.exe.vmoptions" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="123" />
+    <option name="width" value="784" />
+    <option name="height" value="833" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dt_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dt_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dt_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dt_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dt_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dt_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dt_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dt_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dt_web" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dt_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dt_web" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dt_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="dt_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../leetcode" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15136719" />
+    <property name="project.structure.side.proportion" value="0.2036824" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent\images" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent\images\member" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WEB-INF" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebAdmin" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\Admin" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent\images" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WebContent\images\member" />
+      <recent name="D:\java\apache-tomcat-9.0.10\webapps\dt_web\web\WEB-INF" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dreamtech.dt_web.service" />
+      <recent name="com.dremtech.dt_web.dao" />
+      <recent name="com.dremtech.dt_web.service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat">
+    <configuration name="GzipFilter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dreamtech.dt_web.untils.GzipFilter" />
+      <module name="dt_web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dreamtech.dt_web.untils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GzipUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dreamtech.dt_web.untils.GzipUtil" />
+      <module name="dt_web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dreamtech.dt_web.untils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="MemberDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dreamtech.dt_web.dao.MemberDao" />
+      <module name="dt_web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dreamtech.dt_web.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="UserDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dreamtech.dt_web.dao.UserDao" />
+      <module name="dt_web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dreamtech.dt_web.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="insert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dreamtech.dt_web.web.insert" />
+      <module name="dt_web" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dreamtech.dt_web.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.10" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="dt_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_dt_web" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61823" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat" />
+      <item itemvalue="Application.MemberDao" />
+      <item itemvalue="Application.UserDao" />
+      <item itemvalue="Application.GzipUtil" />
+      <item itemvalue="Application.insert" />
+      <item itemvalue="Application.GzipFilter" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GzipFilter" />
+        <item itemvalue="Application.insert" />
+        <item itemvalue="Application.GzipUtil" />
+        <item itemvalue="Application.UserDao" />
+        <item itemvalue="Application.MemberDao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469398d3-4956-4812-9423-5bb109549b9e" name="Default" comment="" />
+      <created>1534841549601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534841549601</updated>
+      <workItem from="1534841559621" duration="27049000" />
+      <workItem from="1534991733539" duration="5149000" />
+      <workItem from="1535006777346" duration="17184000" />
+      <workItem from="1535048822386" duration="23633000" />
+      <workItem from="1535160047332" duration="7496000" />
+      <workItem from="1535192381509" duration="8728000" />
+      <workItem from="1535247556809" duration="9581000" />
+      <workItem from="1535333868589" duration="39377000" />
+      <workItem from="1535504114807" duration="23940000" />
+      <workItem from="1535590798073" duration="21801000" />
+      <workItem from="1535689401630" duration="14356000" />
+      <workItem from="1535781824145" duration="4756000" />
+      <workItem from="1535879949844" duration="14647000" />
+      <workItem from="1535941394884" duration="17673000" />
+      <workItem from="1536200898884" duration="135347000" />
+      <workItem from="1537062715128" duration="604000" />
+      <workItem from="1537085133077" duration="235000" />
+      <workItem from="1537185654463" duration="4673000" />
+      <workItem from="1537261155875" duration="5319000" />
+      <workItem from="1537319874765" duration="4266000" />
+      <workItem from="1537361363788" duration="7098000" />
+      <workItem from="1537410142072" duration="1767000" />
+      <workItem from="1537442311829" duration="43345000" />
+      <workItem from="1537671637763" duration="3143000" />
+      <workItem from="1537685326503" duration="66364000" />
+      <workItem from="1539175739543" duration="21294000" />
+      <workItem from="1539592637811" duration="19046000" />
+      <workItem from="1539855889862" duration="4761000" />
+      <workItem from="1539957386708" duration="320000" />
+      <workItem from="1540003082530" duration="1957000" />
+      <workItem from="1540038178181" duration="11595000" />
+      <workItem from="1540095985854" duration="1007000" />
+      <workItem from="1541682564008" duration="27000" />
+      <workItem from="1542440962277" duration="705000" />
+      <workItem from="1542618125154" duration="1944000" />
+      <workItem from="1542806004798" duration="44000" />
+      <workItem from="1545047492192" duration="49000" />
+      <workItem from="1545047582469" duration="1212000" />
+      <workItem from="1545048835166" duration="201000" />
+      <workItem from="1545049078822" duration="5000" />
+      <workItem from="1545049113588" duration="5000" />
+      <workItem from="1545049190327" duration="2000" />
+      <workItem from="1545049224409" duration="8000" />
+      <workItem from="1545049345159" duration="5000" />
+      <workItem from="1545049625870" duration="31000" />
+      <workItem from="1545049743965" duration="609000" />
+      <workItem from="1545053604737" duration="7000" />
+      <workItem from="1545053649133" duration="81000" />
+      <workItem from="1545053761704" duration="6000" />
+      <workItem from="1545054167890" duration="23000" />
+      <workItem from="1545054215229" duration="5000" />
+      <workItem from="1545054628705" duration="49000" />
+      <workItem from="1545054701929" duration="10000" />
+      <workItem from="1545054762639" duration="35000" />
+      <workItem from="1545054892020" duration="50000" />
+      <workItem from="1545054964184" duration="3000" />
+      <workItem from="1545055014266" duration="6000" />
+      <workItem from="1545117359962" duration="32000" />
+      <workItem from="1545117573093" duration="7000" />
+      <workItem from="1545118627846" duration="87000" />
+      <workItem from="1545118741020" duration="5000" />
+      <workItem from="1545119027128" duration="16000" />
+      <workItem from="1545119067200" duration="73000" />
+      <workItem from="1545119170485" duration="5000" />
+      <workItem from="1545119404783" duration="15000" />
+      <workItem from="1545119465141" duration="5000" />
+      <workItem from="1545567219204" duration="297000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="573175000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.32905984" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49865952" weight="0.32905984" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5067024" side_tool="true" weight="0.525641" />
+      <window_info anchor="bottom" id="Application Servers" order="8" sideWeight="0.49932975" weight="0.32905984" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49329758" weight="0.39173788" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49865952" weight="0.32905984" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5798122" visible="true" weight="0.14477211" />
+      <window_info id="Web" order="6" sideWeight="0.4201878" side_tool="true" weight="0.21447721" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Favorites" order="5" sideWeight="0.41025642" side_tool="true" weight="0.19168901" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.49287748" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49329758" weight="0.37606838" />
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32905984" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.43162394" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="bottom" id="Thumbnails" order="14" weight="0.32905984" />
+      <window_info anchor="bottom" id="Application Servers" order="8" sideWeight="0.49932975" weight="0.32905984" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="Image Layers" order="3" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49329758" visible="true" weight="0.42165244" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.41025642" side_tool="true" weight="0.19168901" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49865952" weight="0.32905984" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5067024" side_tool="true" weight="0.525641" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49329758" weight="0.37606838" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932975" weight="0.32905984" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" sideWeight="0.49865952" weight="0.32905984" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5820569" visible="true" weight="0.21447721" />
+      <window_info anchor="right" id="Database" order="9" weight="0.3297587" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="6" sideWeight="0.41794312" side_tool="true" weight="0.20911528" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.3297587" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.43162394" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49798927" weight="0.49287748" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="38" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="request" />
+        <watch expression="printWriter" language="JAVA" />
+        <watch expression="response" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>printWriter</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/dao/DonationDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="55" column="46" lean-forward="true" selection-start-line="55" selection-start-column="46" selection-end-line="55" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebAdmin/money.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3660">
+          <caret line="122" column="30" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/DelDonationServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebAdmin/get.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/dt-error.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/untils/GzipFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="77" column="5" lean-forward="true" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminIndexServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6272.32567/oss-h5-upload-js-direct/index.html" />
+    <entry file="file://$PROJECT_DIR$/web/WebAdmin/upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4888">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa6272.1404/oss-h5-upload-js-direct/index.html" />
+    <entry file="file://$PROJECT_DIR$/web/WebAdmin/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2114">
+          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/web/NewsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="44" column="26" lean-forward="true" selection-start-line="44" selection-start-column="26" selection-end-line="44" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/DelFinanceServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/NewsImageServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="53">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AddNewsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminAchievementsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="467">
+          <caret line="34" column="59" lean-forward="true" selection-start-line="34" selection-start-column="59" selection-end-line="34" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AddAchievementsServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/js/dt-member.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1620" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebAdmin/donation.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/web/ApplicationServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="39" selection-end-line="36" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt-get.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/web/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="38" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/admin_web/AdminLoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="36" selection-start-line="26" selection-start-column="36" selection-end-line="26" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dreamtech/dt_web/web/MemberServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="79" column="9" selection-start-line="79" selection-start-column="9" selection-end-line="79" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/js/dt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="93" column="45" selection-start-line="93" selection-start-column="45" selection-end-line="93" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/css/dt.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1506" column="1" lean-forward="true" selection-start-line="1506" selection-start-column="1" selection-end-line="1506" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="178" selection-start-line="178" selection-end-line="183" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/css/dt-achievements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/css/dt-donation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="255" column="1" lean-forward="true" selection-start-line="255" selection-start-column="1" selection-end-line="255" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/css/dt-get.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-613">
+          <caret line="81" column="27" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/css/dt-news.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-223">
+          <caret line="306" column="13" lean-forward="true" selection-start-line="306" selection-start-column="13" selection-end-line="306" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/js/dt-introduce.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt-donation.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="281" selection-start-line="281" selection-end-line="281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt-introduce.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt-login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1693" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt-member.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="152" selection-start-line="152" selection-end-line="152" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt-news.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1929">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/admin/comment.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3600" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/css/dt-introduce.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="154" lean-forward="true" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/css/dt-member.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="227" column="2" lean-forward="true" selection-start-line="227" selection-start-column="2" selection-end-line="227" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebAdmin/news.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="242" column="17" lean-forward="true" selection-start-line="242" selection-start-column="17" selection-end-line="242" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebAdmin/achievement.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2010">
+          <caret line="185" column="46" lean-forward="true" selection-start-line="185" selection-start-column="46" selection-end-line="185" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/jsp/dt-achievements.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/js/dt-achievements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="101" column="31" lean-forward="true" selection-start-line="101" selection-start-column="31" selection-end-line="101" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WebContent/js/dt-news.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="152" column="19" lean-forward="true" selection-start-line="152" selection-start-column="19" selection-end-line="152" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/idea.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/idea.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="47" lean-forward="true" selection-start-line="1" selection-start-column="47" selection-end-line="1" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jdbc.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/bin/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>dt_web:war exploded</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2036824" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dt_web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Java EE 6-Java EE 6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,171 @@
+/*clear style*/
+html {
+    color: #000;
+    background: #FFF;
+    font-size: 62.5%;
+    height: 100%;
+    width: 100%;
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset, img {
+    border: 0
+}
+
+address, caption, cite, code, dfn, em, strong, th, var {
+    font-style: normal;
+    font-weight: normal
+}
+
+ol, ul {
+    list-style: none
+}
+
+caption, th {
+    text-align: left
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: normal
+}
+
+q:before, q:after {
+    content: ''
+}
+
+abbr, acronym {
+    border: 0;
+    font-variant: normal
+}
+
+sup {
+    vertical-align: text-top
+}
+
+sub {
+    vertical-align: text-bottom
+}
+
+input, textarea, select {
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+    *font-size: 100%
+}
+
+legend {
+    color: #000;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+.bg{
+    width: 100%;
+    overflow: hidden;
+}
+
+/*nav*/
+.navbar {
+    background-color: white;
+    border: none;
+}
+
+.nav a {
+    font-size: 1.5rem;
+    margin-top: 1rem;
+}
+
+.nav a:hover {
+    color: skyblue !important;
+}
+.navbar-brand{
+    margin-top: .1rem;
+}
+.navbar-toggle{
+    margin-top: 1.7rem;
+}
+
+/*media*/
+@media screen and (max-width: 768px) {
+    .panel-heading h3 {
+        margin-left: -10%;
+    }
+}
+/*header1*/
+.header1 img{
+}
+
+/*bd1*/
+.body1 h4 {
+    line-height: 50px;
+    text-indent: 2em;
+}
+
+.body1 h4:first-letter {
+    font-size: 1.2em;
+    margin-right: 5px;
+    color: #6c1111;
+}
+
+.body1 .panel-heading {
+    background-color: transparent;
+    padding: 0;
+}
+
+.body1 .panel-title a:link, .panel-title a:visited, .panel-title a:active {
+    text-decoration: none;
+}
+
+.panel-heading:hover h3 {
+    transform: scale(1.1);
+}
+
+.body1 .panel {
+    border: none;
+}
+
+.body1 .page-header {
+    border: none;
+}
+
+.panel-heading h3 {
+    user-select: none;
+}
+
+.panel-heading small {
+    display: block;
+    margin-top: 20px;
+}
+
+@media (min-width: 768px) {
+    .footer_ul{
+        font-size: 1.4rem;
+    }
+    .footer-logo {
+        margin-top: 6%;
+    }
+}
+@media (max-width: 768px) {
+    .footer_ul{
+        font-size: 1rem;
+    }
+    .footer-logo{
+        text-align: center;
+    }
+}
